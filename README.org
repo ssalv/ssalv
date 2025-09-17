@@ -1,0 +1,21 @@
+* Salvatore Criscione - @ssalv
+**** Who I am?
+
+I am a *Software Engineer* focused working on projects with a focus on *minimalism* and simplicity.
+
+**** What do I know
+
+I have experience working with *Elixir*, TypeScript, *React*, and web development technologies in general. I do both backend and frontend development. Currently, I'm expanding my mindset by learning Nix and Linux in general.
+
+I am developer for around 14 years.
+
+**** What do I use
+I find myself comfortable with *Linux*, following core principles:
+
+- *Minimalism*: Only essential components.
+
+- *Wayland-native*: Built around the modern display protocols.
+
+- *Security-focused*: Incorporating paranoid-level security practices by default.
+
+- *Emacs*: I use mostly emacs for most of my stuff.
