@@ -10,7 +10,7 @@ I have experience working with *Elixir*, TypeScript, *React*, and web developmen
 I am developer for around 14 years.
 
 **** What do I use
-I find myself comfortable with *Linux*, following core principles:
+I find myself comfortable with *Linux*, following the core principles:
 
 - *Minimalism*: Only essential components.
 
